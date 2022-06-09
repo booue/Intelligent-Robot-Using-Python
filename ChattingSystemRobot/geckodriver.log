@@ -1,0 +1,37 @@
+1652342929478	geckodriver	INFO	Listening on 127.0.0.1:64221
+1652342932542	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\腻味\\AppData\\Local\\Temp\\rust_mozprofilevoTPrZ"
+1652342933296	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u817B\u5473\\AppData\\Local\\Temp\\rust_mozprofilevoTPrZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64247/devtools/browser/42fffe69-6f91-41c9-aa7a-14a11f4ad26d
+1652342935187	Marionette	INFO	Listening on port 64227
+1652342935276	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.baidu.com"
+[Child 17380, MediaDecoderStateMachine #1] WARNING: 154c30809a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:327
+1652342981732	Marionette	INFO	Stopped listening on port 64227
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652428536263	geckodriver	INFO	Listening on 127.0.0.1:57218
+1652428539333	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\腻味\\AppData\\Local\\Temp\\rust_mozprofile2BXcUz"
+1652428539991	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u817B\u5473\\AppData\\Local\\Temp\\rust_mozprofile2BXcUz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57242/devtools/browser/7642cb18-1dc3-4961-a760-46fd651b2e86
+1652428541937	Marionette	INFO	Listening on port 57223
+1652428542093	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.baidu.com"
+1652428551332	Marionette	INFO	Stopped listening on port 57223
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652450787385	geckodriver	INFO	Listening on 127.0.0.1:59029
+1652450790474	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\腻味\\AppData\\Local\\Temp\\rust_mozprofilebdpORm"
+1652450792151	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u817B\u5473\\AppData\\Local\\Temp\\rust_mozprofilebdpORm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59059/devtools/browser/f1d508fe-1ba9-4b05-b1dc-6f6110d49c9d
+1652450796864	Marionette	INFO	Listening on port 59034
+1652450797006	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.baidu.com"
+1652450810588	Marionette	INFO	Stopped listening on port 59034
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
