@@ -32,9 +32,9 @@ import numpy
 
 
 ## 百度识别编码
-APP_ID = '26215596'
-API_KEY = 'mKmzR3E2lGbY3dgDhkSIG4BN'
-SECRET_KEY = 'WRGlvZ7pGGQAmSpIf9kc9YEzaHTCLAGH'
+APP_ID = '********'
+API_KEY = '*************'
+SECRET_KEY = '**************'
 
 
 #声音录制设置
